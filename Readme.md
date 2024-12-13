@@ -1,6 +1,6 @@
 # Demo Video
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/yOeh3_KsCBU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Demo Video](https://img.youtube.com/vi/yOeh3_KsCBU/0.jpg)](https://youtu.be/yOeh3_KsCBU)
 
 
 
