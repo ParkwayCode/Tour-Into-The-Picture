@@ -1,5 +1,10 @@
 # Demo Video
-[![Demo Video](https://img.shields.io/badge/Video-Link-blue)](https://github.com/AKadmani/CVChallenge/blob/user_interface/Demo_Video.mp4)
+
+<video width="640" height="360" controls>
+  <source src="https://github.com/ParkwayCode/Tour-Into-The-Picture/blob/main/Demo_Video.mp4" type="video/mp4">
+  Ihr Browser unterstützt das Video-Tag nicht.
+</video>
+
 
 # Toolboxes
 1. **Image Processing Toolbox**
