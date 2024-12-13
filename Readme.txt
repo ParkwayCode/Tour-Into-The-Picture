@@ -1,23 +1,23 @@
 # Demo Video
-https://github.com/AKadmani/CVChallenge/blob/user_interface/Demo_Video.mp4
+[![Demo Video](https://img.shields.io/badge/Video-Link-blue)](https://github.com/AKadmani/CVChallenge/blob/user_interface/Demo_Video.mp4)
 
 # Toolboxes
-1) Image Processing Toolbox
-2) Statistics and Machine Learning Toolbox
-3) Optional: Parallel Computing Toolbox
+1. **Image Processing Toolbox**
+2. **Statistics and Machine Learning Toolbox**
+3. **Optional:** Parallel Computing Toolbox
 
 # Anleitung
-1) main.m öffnen
-2) "Run" klicken
-3) Ein neues Fenster "GUIDECV" wird geöffnet
-4) "Select Image" klicken, ein Bild wählen
-5) "Inner rectangle" klicken
-6) Das innere Rechteck wählen durch click-and-drag
-7) "Vanishing point" klicken
-8) Fluchtphunkt im Bild wählen durchs Klicken. Der Fluchtpunkt muss innerhalb des inneren Rechteckes liegen
-9) "Foreground" klicken
-10) Das Vordergrund-Objekt grob einrahmen durch click-and-drag
-11) Warten bis der Cursor anders aussieht, Punkte des Vorderground-Polygon durchs Klicken wählen
-12) "Launch Analysis" klicken
-13) Warten bis das Fenster "Tour into the Picture" generiert wird
-14) Rumlaufen mit Maus und WASD
+1. `main.m` öffnen.
+2. Auf **"Run"** klicken.
+3. Ein neues Fenster **"GUIDECV"** wird geöffnet.
+4. Auf **"Select Image"** klicken und ein Bild wählen.
+5. Auf **"Inner rectangle"** klicken.
+6. Das innere Rechteck auswählen durch **Click-and-Drag**.
+7. Auf **"Vanishing point"** klicken.
+8. Den Fluchtpunkt im Bild wählen durch Klicken (Fluchtpunkt muss innerhalb des inneren Rechtecks liegen).
+9. Auf **"Foreground"** klicken.
+10. Das Vordergrund-Objekt grob einrahmen durch **Click-and-Drag**.
+11. Warten, bis der Cursor sich ändert, dann die Punkte des Vordergrund-Polygons durch Klicken festlegen.
+12. Auf **"Launch Analysis"** klicken.
+13. Warten, bis das Fenster **"Tour into the Picture"** generiert wird.
+14. Im Bild mit der Maus und den Tasten **W, A, S, D** navigieren.
